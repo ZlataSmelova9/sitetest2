@@ -212,10 +212,10 @@
     margin-bottom: 60px;
 }
 .card-big{
-    width: 540px;
+    width: 530px;
 }
 .card-small{
-    width: 360px;
+    width: 530px;
 }
 .img-container{
     background-size: cover;
@@ -228,7 +228,7 @@
     padding-bottom: 20px;
     padding-left: 20px;
 }
-.img-card-1 {background-image: url(img/card-1.png);}
+.img-card-1 {background-image: url(img/scara.jpg);}
 .btn-raiting{
     width: 77px;
     background-color: #111;
@@ -268,9 +268,9 @@
     line-height: 1.7;
     letter-spacing: 0.5px;
 }
-.img-card-2{background-image: url(img/card-2.png);}
-.img-card-3{background-image: url(img/card-3.png);}
-.img-card-4{background-image: url(img/card-4.png);}
+.img-card-2{background-image: url(img/dr.jpg);}
+.img-card-3{background-image: url(img/bd.jpeg);}
+.img-card-4{background-image: url(img/re.jpg);}
 .footer{
     background-color: #F5F6F8;
     padding: 60px 0;
